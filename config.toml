@@ -1,4 +1,4 @@
-baseURL = "https://danishi.github.io/MyPortfolio/myportfolio/public/"
+baseURL = "https://danishi.github.io/"
 languageCode = "ja"
 title = "MyPortfolio"
-theme = "hugo_theme_pickles" 
+theme = "hugo_theme_pickles"
