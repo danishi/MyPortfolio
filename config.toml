@@ -1,4 +1,21 @@
-baseURL = "https://danishi.github.io/"
+baseurl = "https://danishi.github.io/"
+title = "My Portfolio"
+theme = "hugo-theme-nix"
 languageCode = "ja"
-title = "MyPortfolio"
-theme = "hugo_theme_pickles"
+
+[menu]
+  [[menu.header]]
+    name = "Blog"
+    weight = 1
+    url = "https://www.blog.danishi.net/"
+
+[params]
+  GithubID = "danishi"
+  TwitterID = "Danishi411"
+  Name = "Danishi"
+  HeaderUsername = "Danishi"
+  HeaderHostname = "Web Engineer"
+  About = "Hi I'm Danishi and this is my website. I am a web engineer."
+  ProfilePicture = "/images/profile.png"
+  Favicon = "/favicon.ico"
+
